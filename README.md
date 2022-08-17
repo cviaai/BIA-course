@@ -1,4 +1,4 @@
-# BIA course, @SkolTech
+# BIA course
 
 This repository contains seminars and home assignments for the BIA course
 
